@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="256"
+   height="256"
+   fill="none"
+   viewBox="0 0 256 256"
+   id="azure"
+   version="1.1"
+   sodipodi:docname="confluence-auto.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.1835938"
+     inkscape:cx="125.64417"
+     inkscape:cy="129.88466"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="azure" />
+  <style
+     id="style1">
+#azure {
+    rect {fill: #242938}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+  <rect
+     width="256"
+     height="256"
+     fill="#242938"
+     rx="60"
+     id="rect1" />
+  <g
+     id="g12"
+     transform="translate(-2)">
+    <g
+       id="g13">
+      <path
+         d="m 38.309146,177.85375 a 514.9085,514.9085 0 0 0 -6.299719,10.19905 c -1.792536,2.9979 -0.895234,6.89723 2.100595,8.69805 l 41.067053,25.19887 c 2.997897,1.79874 6.888961,0.89523 8.689767,-2.1006 A 288.10619,288.10619 0 0 1 89.860568,209.648 c 16.192782,-26.69162 32.675022,-23.69373 62.048212,-9.59327 l 40.77139,19.18861 c 3.29356,1.50309 6.89517,0 8.38998,-2.9979 l 19.48841,-44.08562 c 1.49275,-3.00411 0,-6.89724 -3.00617,-8.40032 -8.68977,-3.9014 -25.76952,-12.00193 -40.759,-19.49667 C 121.34263,117.56294 74.27357,119.36374 38.311213,177.85375 Z m 0,0"
+         fill="url(#confluence-original-a)"
+         id="path6"
+         style="fill:url(#confluence-original-a);stroke-width:2.06752" />
+      <path
+         d="m 222.35109,77.674379 c 2.1394,-3.375136 4.23946,-6.775041 6.29972,-10.199054 1.79874,-2.997896 0.89523,-6.897231 -2.1006,-8.698036 L 185.48316,33.578405 c -2.9979,-1.798738 -6.88896,-0.895234 -8.68977,2.100596 -1.92481,3.442794 -3.92319,6.843948 -5.99373,10.201121 -16.19278,26.691629 -32.675,23.693732 -62.0482,9.593277 L 67.980054,36.284783 c -3.293552,-1.503083 -6.88689,0 -8.389973,2.997898 l -19.48013,44.085635 c -1.501016,3.0041 0,6.905504 2.997898,8.400315 8.689766,3.901405 25.777776,12.001909 40.758993,19.496649 55.461108,26.40217 102.519818,24.89702 138.482188,-33.590901 z"
+         fill="url(#confluence-original-b)"
+         id="path7"
+         style="fill:url(#confluence-original-b);stroke-width:2.06752"
+         sodipodi:nodetypes="cccccccccccccc" />
+    </g>
+  </g>
+  <defs
+     id="defs12">
+    <linearGradient
+       id="paint0_linear_159_730"
+       x1="116.244"
+       x2="54.783"
+       y1="47.967"
+       y2="229.54"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#114A8B"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#0669BC"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear_159_730"
+       x1="135.444"
+       x2="121.227"
+       y1="132.585"
+       y2="137.392"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-opacity=".3"
+         id="stop6" />
+      <stop
+         offset=".071"
+         stop-opacity=".2"
+         id="stop7" />
+      <stop
+         offset=".321"
+         stop-opacity=".1"
+         id="stop8" />
+      <stop
+         offset=".623"
+         stop-opacity=".05"
+         id="stop9" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="paint2_linear_159_730"
+       x1="127.625"
+       x2="195.091"
+       y1="42.671"
+       y2="222.414"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#3CCBF4"
+         id="stop11" />
+      <stop
+         offset="1"
+         stop-color="#2892DF"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       id="confluence-original-b"
+       gradientUnits="userSpaceOnUse"
+       x1="5.2090001"
+       y1="2.523"
+       x2="20.208"
+       y2="11.136"
+       gradientTransform="matrix(8.2700614,0,0,8.2700614,-1.9908652,-0.42188173)">
+      <stop
+         offset="0"
+         stop-color="#0052cc"
+         id="stop4-0" />
+      <stop
+         offset=".918"
+         stop-color="#2380fb"
+         id="stop5-9" />
+      <stop
+         offset="1"
+         stop-color="#2684ff"
+         id="stop6-4" />
+    </linearGradient>
+    <linearGradient
+       id="confluence-original-a"
+       gradientUnits="userSpaceOnUse"
+       x1="26.791"
+       y1="28.466999"
+       x2="11.792"
+       y2="19.855"
+       gradientTransform="matrix(8.2700614,0,0,8.2700614,-1.9908652,-0.42188173)">
+      <stop
+         offset="0"
+         stop-color="#0052cc"
+         id="stop1" />
+      <stop
+         offset=".918"
+         stop-color="#2380fb"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#2684ff"
+         id="stop3" />
+    </linearGradient>
+  </defs>
+</svg>

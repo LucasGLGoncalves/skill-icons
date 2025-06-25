@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="256"
+   height="256"
+   fill="none"
+   viewBox="0 0 256 256"
+   id="azure"
+   version="1.1"
+   sodipodi:docname="portainer-auto.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.1835938"
+     inkscape:cx="127.84294"
+     inkscape:cy="128"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="azure" />
+  <style
+     id="style1">
+#azure {
+    rect {fill: #242938}
+
+    @media (prefers-color-scheme: light) {
+        rect {fill: #F4F2ED}
+    }
+}
+</style>
+  <rect
+     width="256"
+     height="256"
+     fill="#242938"
+     rx="60"
+     id="rect1" />
+  <defs
+     id="defs12">
+    <linearGradient
+       id="paint0_linear_159_730"
+       x1="116.244"
+       x2="54.783"
+       y1="47.967"
+       y2="229.54"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#114A8B"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#0669BC"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear_159_730"
+       x1="135.444"
+       x2="121.227"
+       y1="132.585"
+       y2="137.392"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-opacity=".3"
+         id="stop6" />
+      <stop
+         offset=".071"
+         stop-opacity=".2"
+         id="stop7" />
+      <stop
+         offset=".321"
+         stop-opacity=".1"
+         id="stop8" />
+      <stop
+         offset=".623"
+         stop-opacity=".05"
+         id="stop9" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="paint2_linear_159_730"
+       x1="127.625"
+       x2="195.091"
+       y1="42.671"
+       y2="222.414"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#3CCBF4"
+         id="stop11" />
+      <stop
+         offset="1"
+         stop-color="#2892DF"
+         id="stop12" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g12"
+     transform="matrix(1.763738,0,0,1.763738,-127.01917,-70.292291)">
+    <path
+       d="m 129.31411,76.755583 h -1.88 v 9.75 h 1.88 z m 8.09,0 h -1.88 v 9.75 h 1.88 z m 11.06,-18.6 -1.93,-3.34 -32.18,18.6 1.93,3.34 z"
+       id="path1-8"
+       style="fill:#35b6ec;fill-opacity:1" />
+    <path
+       d="m 148.27411,58.155583 1.93,-3.34 32.18,18.6 -1.93,3.34 z"
+       id="path2-9"
+       style="fill:#35b6ec;fill-opacity:1" />
+    <path
+       d="m 188.07411,76.805583 v -3.86 h -88.16 v 3.86 z"
+       id="path3-2"
+       style="fill:#35b6ec;fill-opacity:1" />
+    <path
+       d="M 153.16411,131.32558 V 74.115583 h 3.86 v 59.979997 c -1.03,-1.17 -2.35,-2.02 -3.86,-2.77 z m -6.58,-0.99 V 49.635583 h 3.86 v 81.169997 c -1.09,-0.52 -3.72,-0.47 -3.86,-0.47 z m -36.55,8.05 c -4.7,-3.48 -7.81,-9.04 -7.81,-15.35 0,-3.34 0.89,-6.64 2.54,-9.51 h 32.93 c 1.69,2.87 2.54,6.17 2.54,9.51 0,2.92 -0.38,5.65 -1.55,8.1 -2.49,-2.4 -6.16,-3.44 -9.88,-3.44 -6.59,0 -12.23,4.1 -13.69,10.22 -0.52,-0.05 -0.85,-0.09 -1.36,-0.09 -1.28,0.04 -2.5,0.23 -3.72,0.56 z"
+       id="path4-7"
+       style="fill:#35b6ec;fill-opacity:1" />
+    <path
+       d="m 126.21411,90.835583 h -9.97 v 10.029997 h 9.97 z m -11.25,0 h -9.97 v 10.029997 h 9.97 z m 0,11.159997 h -9.97 v 10.03 h 9.97 z m 11.25,0 h -9.97 v 10.03 h 9.97 z m 11.19,0 h -9.97 v 10.03 h 9.97 z m 0,-16.529997 h -9.97 v 10.03 h 9.97 z"
+       id="path5"
+       style="fill:#35b6ec;fill-opacity:1" />
+    <path
+       d="m 116.75411,139.89558 c 1.36,-5.79 6.59,-10.12 12.8,-10.12 4,0 7.57,1.79 10.02,4.62 2.12,-1.46 4.66,-2.31 7.43,-2.31 7.24,0 13.12,5.88 13.12,13.14 0,1.51 -0.23,2.92 -0.7,4.28 1.6,2.17 2.59,4.9 2.59,7.82 0,7.25 -5.88,13.14 -13.13,13.14 -3.2,0 -6.12,-1.13 -8.37,-3.01 -2.4,3.34 -6.3,5.56 -10.73,5.56 -5.08,0 -9.5,-2.92 -11.71,-7.16 -0.89,0.19 -1.79,0.28 -2.73,0.28 -7.24,0 -13.17,-5.89 -13.17,-13.14 0,-7.25 5.88,-13.14 13.17,-13.14 0.47,-0.05 0.94,-0.05 1.41,0.04 z"
+       id="path6"
+       style="fill:#35b6ec;fill-opacity:1" />
+  </g>
+</svg>
